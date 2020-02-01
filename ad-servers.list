@@ -1,12 +1,8 @@
-#Title: NoTrack Tracker Blocklist
-#Description: Tracker Domains Block List from quidsup.net
-#Author: QuidsUp
-#License: GNU General Public License v3.0
-#Home: https://quidsup.net/notrack/blocklist.php
-#@ GitLab : https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
-#Updated: 28 Jan 2020
-#LatestVersion 0.9.4
-#---------------------
+# sources
+# - https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
+# - http://phishing.mailscanner.info/phishing.bad.sites.conf
+# and personal experience
+# --------------
 04ee395e5b8a076c7bd8592851ff8cad.com #Advertising Unknown
 1-cl0ud.com #Lead Forensics
 1-creative-1.com #Lead Forensics
